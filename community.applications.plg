@@ -2,7 +2,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "community.applications">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2023.07.01">
+<!ENTITY version   "2023.05.20">
 <!ENTITY md5       "7a3ef08367518d5f5c4627a1a8d8de53">
 <!ENTITY launch    "Apps">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
